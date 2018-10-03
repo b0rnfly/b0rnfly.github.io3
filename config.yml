@@ -1,6 +1,6 @@
 ---
-url:'b0rnfly.github.io'
+url:'https://b0rnfly.github.io'
 baseurl: '/b0rnfly.github.io'
-layout:page
+layout:default.html
 ---
 
